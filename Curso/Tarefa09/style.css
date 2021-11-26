@@ -1,0 +1,17 @@
+main h1 {
+  font-family: "Fredericka the Great", Calibri;
+}
+
+main {
+  height: 660px;
+  background-image: url("https://papers.co/wallpaper/papers.co-bj18-cloud-sky-purple-art-29-wallpaper.jpg");
+}
+
+article {
+  background-color: red;
+}
+
+article {
+  color: black;
+  text-align: center;
+}
